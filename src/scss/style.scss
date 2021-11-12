@@ -1,0 +1,8 @@
+@import 'tailwind';
+@import 'global/*.scss';
+@import '../components/**/*.sass';
+@import '../page/**/**/*.sass';
+
+/* NOTE - import here your style modules */
+@import 'media';
+@import 'custom-media';

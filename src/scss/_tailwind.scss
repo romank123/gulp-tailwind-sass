@@ -1,0 +1,138 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer components {
+
+  .color-f8 {
+    color: #f8f8f8;
+  }
+
+  .color-a6 {
+    color: #a6a6a6;
+  }
+
+  .color-6b {
+    color: #6b6b6b;
+  }
+
+  .color-28 {
+    color: #282828;
+  }
+
+  .color-cc {
+    color: #cccccc;
+  }
+
+  .border-top-5 {
+    border-top: 5px solid;
+    border-image: linear-gradient( 172deg, rgb(152,224,95) 0%, rgb(13,227,172) 100%);
+    border-image-slice: 1;
+  }
+
+
+  .text-12 {
+    font-size: 12px;
+  }
+
+  .text-14 {
+    font-size: 14px;
+  }
+
+  .text-15 {
+    font-size: 15px;
+  }
+
+  .text-18 {
+    font-size: 18px;
+  }
+
+  .text-19 {
+    font-size: 19px;
+  }
+
+  .text-22 {
+    font-size: 22px;
+  }
+
+  .text-23 {
+    font-size: 23px;
+  }
+
+  .text-28 {
+    font-size: 28px;
+  }
+
+  .text-30 {
+    font-size: 30px;
+  }
+
+  .text-32 {
+    font-size: 32px;
+  }
+
+  .text-46 {
+    font-size: 46px;
+  }
+
+  .text-52 {
+    font-size: 52px;
+  }
+
+  .text-54 {
+    font-size: 54px;
+  }
+
+  .text-55 {
+    font-size: 55px;
+  }
+
+  .text-57 {
+    font-size: 57px;
+  }
+
+  .text-58 {
+    font-size: 58px;
+  }
+
+  .text-67 {
+    font-size: 67px;
+  }
+
+  .text-68 {
+    font-size: 68px;
+  }
+
+  .text-80 {
+    font-size: 80px;
+  }
+
+  .text-82 {
+    font-size: 82px;
+  }
+
+  .text-92 {
+    font-size: 92px;
+  }
+
+  .bgc-f4 {
+    background-color: #f4f4f4;
+  }
+
+  .bgc-f8 {
+    background-color: #f8f8f8;
+  }
+
+  .h-65 {
+    height: 65px;
+  }
+
+  .rounded-4xl {
+    border-radius: 32px;
+  }
+
+  .leading-40 {
+    line-height: 40px;
+  }
+
+}
